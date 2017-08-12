@@ -17,11 +17,6 @@
    *
    */
 
-
-  // define namespace for Julian Spravil's ping classes
-  use MinecraftServerStatus\MinecraftServerStatus;
-
-
   // autoload classes from directory tree
   spl_autoload_register(function ($class_name) {
     include $class_name . '.php';

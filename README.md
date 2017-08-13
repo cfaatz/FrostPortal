@@ -1,6 +1,8 @@
 # FrostPortal
 ## A lightweight, simple, and beautiful Minecraft portal website.
 
+![Frost Preview](https://proxy.spigotmc.org/530c46cae569fcd856d75108a473d7fb631a82b7?url=https%3A%2F%2Fi.gyazo.com%2F872c153be46da4d54d51a5f58258b876.png)
+
 Frost is a very easy-to-use web portal built for Minecraft servers, with quick installation, easy configuration, and a beautiful, minimalist design. This web portal will make your server instantly look more professional with very little work. Developed entirely with HTML, CSS, and PHP, it is lightning-fast and highly-compatible.
 
 This software is released under the Apache 2.0 license, and is developed in its entirety by myself, in addition to usage of [Julian Spravil's PHP Minecraft Server Query classes](https://github.com/FunnyItsElmo/PHP-Minecraft-Server-Status-Query/).
